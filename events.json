@@ -1,0 +1,289 @@
+[
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 1,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.6024072170257568
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 2,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.5986130833625793
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 3,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.5760452747344971
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 4,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.571841299533844
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 5,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.528312623500824
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 6,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.5231446027755737
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 7,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.5057148337364197
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 8,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.5051553845405579
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 9,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.4876338541507721
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 10,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.45198994874954224
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 11,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.4467768371105194
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 12,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.4393225610256195
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 13,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.43174585700035095
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 14,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.42341122031211853
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 15,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.38684600591659546
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 16,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.3851314187049866
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 17,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.34135839343070984
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 18,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.32904380559921265
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 19,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.3247479796409607
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.3045763075351715
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 21,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.29498055577278137
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 22,
+        "zone": "Zone A",
+        "timestamp": 0.03,
+        "confidence": 0.2863541543483734
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 25,
+        "zone": "Zone A",
+        "timestamp": 0.1,
+        "confidence": 0.4324261546134949
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 17,
+        "zone": "Zone A",
+        "timestamp": 0.1
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.1
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 32,
+        "zone": "Zone A",
+        "timestamp": 0.13,
+        "confidence": 0.3556221127510071
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 41,
+        "zone": "Zone A",
+        "timestamp": 0.17,
+        "confidence": 0.3787355124950409
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.17,
+        "confidence": 0.38694170117378235
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 32,
+        "zone": "Zone A",
+        "timestamp": 0.23
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 41,
+        "zone": "Zone A",
+        "timestamp": 0.23
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 19,
+        "zone": "Zone A",
+        "timestamp": 0.23
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 22,
+        "zone": "Zone A",
+        "timestamp": 0.23
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 9,
+        "zone": "Zone A",
+        "timestamp": 0.27
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 3,
+        "zone": "Zone A",
+        "timestamp": 0.27
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 3,
+        "zone": "Zone A",
+        "timestamp": 0.3,
+        "confidence": 0.5991159677505493
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.3
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 25,
+        "zone": "Zone A",
+        "timestamp": 0.33
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 3,
+        "zone": "Zone A",
+        "timestamp": 0.33
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 41,
+        "zone": "Zone A",
+        "timestamp": 0.4,
+        "confidence": 0.37002262473106384
+    },
+    {
+        "event": "vehicle_entering_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.4,
+        "confidence": 0.2993793785572052
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 10,
+        "zone": "Zone A",
+        "timestamp": 0.47
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 20,
+        "zone": "Zone A",
+        "timestamp": 0.5
+    },
+    {
+        "event": "vehicle_exiting_the_zone",
+        "track_id": 21,
+        "zone": "Zone A",
+        "timestamp": 0.5
+    }
+]
