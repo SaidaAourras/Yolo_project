@@ -1,0 +1,24 @@
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Python cache & build files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+build/
+dist/
+
+# IDE files
+.idea/
+.vscode/
+.DS_Store
+
+# Large generated files & model weights
+video_annotated.mp4
+runs/
+*.log
